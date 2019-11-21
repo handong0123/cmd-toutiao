@@ -13,5 +13,11 @@ class News:
         self.source = author
         self.source_url = url
 
-    def print(self):
+    def print_all(self):
         print("{}\n{}\t{}".format(self.title, self.source, self.source_url))
+
+    def print_title(self):
+        print(self.title)
+
+    def print_detail(self):
+        print("{}\t{}", self.source, self.source_url)
