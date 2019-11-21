@@ -49,6 +49,12 @@
    >
    > python cmd_toutiao.py
 
+
+
+如果你没有环境，请移步https://github.com/handong0123/cmd-toutiao/releases/tag/1.0下载exe运行
+
+
+
 ##### 操作：
 
 方向键控制：下键切换新闻，左键查看内容，右键溯源
