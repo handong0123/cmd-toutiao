@@ -51,7 +51,7 @@
 
 
 
-如果你没有环境，请移步https://github.com/handong0123/cmd-toutiao/releases/tag/1.0下载exe运行
+如果你没有环境，请移步[此处](https://github.com/handong0123/cmd-toutiao/releases/tag/1.0)下载exe直接运行
 
 
 
