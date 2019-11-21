@@ -3,7 +3,7 @@
 
 
 
-#### What is this?
+### What is this?
 
 这是一个在可以在cmd中看今日头条的家伙，上班时间也可以偷偷看了！
 
@@ -21,7 +21,7 @@
 
 
 
-#### Requirements：
+### Requirements：
 
 - python 3.7+
 - keyboard
@@ -31,7 +31,7 @@
 
 
 
-#### How to use：
+### How to use：
 
 1. 克隆项目
 
@@ -45,7 +45,7 @@
 
 3. 运行程序
 
-   > # 打开cmd ， 进入项目目录/src
+   > 打开cmd ， 进入项目目录/src
    >
    > python cmd_toutiao.py
 
@@ -55,7 +55,7 @@
 
 
 
-#### Citing
+### Citing
 
 如果你有更好的建议，请建issue，大家一起讨论
 
@@ -65,7 +65,7 @@
 
 
 
-#### Authors
+### Authors
 
 handong970123@gmail.com
 
